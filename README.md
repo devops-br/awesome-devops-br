@@ -7,7 +7,7 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
   * [Livros](#livros)
   * [Q&amp;A](#q--a)
   * [Bookmarks](#bookmarks)
-  * [Segurança](#seguranca)
+  * [Segurança](#segurança)
 
 ## Por onde começar
 
