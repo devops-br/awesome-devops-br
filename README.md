@@ -1,16 +1,22 @@
 # awesome-devops-br
 Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devops-BR (https://t.me/devopsbr)
-## Conteúdo
+## Table of Contents
+* [Awesome Devops BR](#awesome-devops-br)
+  * [Por Onde Começar](#por-onde-começar)
+  * [Ferramentas](#ferramentas)
+  * [Livros](#livros)
+  * [Q&amp;A](#q--a)
+  * [Bookmarks](#bookmarks)
 
-### Por onde começar
+## Por onde começar
 
 - [gutocarvalho](http://gutocarvalho.net/blog/2016/09/06/por-onde-iniciar-os-estudos-sobre-devops/) - Por onde iniciar os estudos sobre Devops?
 - [quora](https://www.quora.com/What-are-the-best-resources-for-learning-about-DevOps) - What are the best resources for learning about Devops?
 
-### Ferramentas
+## Ferramentas
 
-### Livros
+## Livros
 
-### Q&A
+## Q&A
 
-### Bookmarks
+## Bookmarks
