@@ -36,6 +36,71 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 
 ## Livros
 
+**The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win** (*Kevin Behr, George Spafford, Gene Kim*): Uma narrativa sobre a introdução de DevOps em uma empresa fícticia - que em certos momentos farão você cogitar a possibilidade do Gene Kim ser um espião trabalhando ao seu lado devido as grandes semelhanças com _qualquer empresa de TI_. Será impossível não se identificar de forma assustadora com os personagens do livro e dar pequenos sorrisos ao encontrar versões "da vida real" dos mesmos.
+
+**The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations** (*Gene Kim, Jez Humble, Patrick Debois, and John Willis*): Está com a sensação de que o projeto unicórnio do Phoenix Project é pura ficcão? Não sabe como colocar o "Three Ways" em prática ou por onde começar? Este livro vai te ajudar a entender DevOps e ilustrar o case de grandes organizações completamente transformadas ou impulsionadas por DevOps, Lean, Agile, TPS e etc.
+
+> **Citações**:
+
+* *"In DevOps, we typically define our technology value stream as the process required to convert a business hypothesis into a technology-enabled service that delivers value to the customer."*
+
+* *"Agile often serves as an effective enabler of DevOps, because of its focus on small teams continually delivering high quality code to customers."*
+
+* *"DevOps isn’t about automation, just as astronomy isn’t about telescopes."*
+
+* *"Because value is created only when our services are running in production, we must ensure that we are not only delivering fast flow, but that our deployments can also be performed without causing chaos and disruptions such as service outages, service impairments, or security or compliance failures."*
+
+* *"Instead of a culture of fear, we have a high-trust, collaborative culture, where people are rewarded for taking risks."* 
+
+**Release It!: Design and Deploy Production-Ready Software** (*Michael T. Nygard*): Porque a Amazon não fica indisponível na Black Friday e meu site não fica em pé com um aumento de 20% na carga por causa de um cupom novo? Qual o custo dessa indisponibilidade para a minha empresa? Como reverter essa situação? Porque a distância entre `feature-complete` e `production-ready` é tão grande? Se você *não* estiver familiarizado com os termos "Inversão de SLA", "Circuit Breaker", "Zero downtime deployments", "Falhas em cascata", "Bulkheads", "Unbalanced Capacities", "Unbounded Result Sets", leia-este-livro-agora.
+
+> **Citações**:
+
+* *"First, you need to accept that fact that despite your best laid plans, bad things will still happen. Second, realize that “Release 1.0” is not the end of the development project but the beginning of the system’s life on its own.*"
+
+* *"Software design today resembles automobile design in the early 90s: disconnected from the real world."*
+
+* *"Systems spend much more of their life in operation than in development—at least, the ones that don’t get canceled or scrapped do."*
+
+* *"Don't avoid one-time development expenses at the cost of recurring operational expenses."*
+
+* *"Team assignments are the first draft of the architecture. (See ​Conway’s Law​.) It’s a terrible irony that these very early decisions are also the least informed."*
+
+* "*Denying the inevitability of failures robs you of your power to control and contain them."*
+
+**Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation** (*Jez Humble, David Farley*): Todas as funcionalidades foram implementadas, mas ainda serão necessárias semanas ou meses para seu software ser entregue. Como manter meu software sempre pronto para produção? Quais práticas utilizar? Quais não utilizar? Quais os benefícios? Embutir qualidade no processo de desenvolvimento e antecipar riscos é potencialmente o melhor investimento a ser feito no seu software!
+
+> **Citações**:
+
+* *"A working software application can be usefully decomposed into four components: executable code, configuration, host environment, and data."*
+
+* *"Configuration management refers to the process by which all artifacts relevant to your project, and the relationships between them, are stored, retrieved, uniquely identified, and modified."*
+
+* *"In software, when something is painful, the way to reduce the pain is to do it more frequently, not less."*
+
+* *"It should always be cheaper to create a new environment than to repair an old one"*
+
+* *"The repeatability and reliability derive from two principles: automate almost everything, and keep everything you need to build, deploy, test, and release your application in version control."*
+
+**Site Reliability Engineering: How Google Runs Production Systems** (*Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy*): Coletanêa de artigos do time de SRE do Google, ilustrando a origem do termo, cultura, princípios e práticas internas, da formação de time até valiosas lições de como potencializar o feedback de sistemas em produção para o desenvolvimento - e sem deixar de lado conceitos como gerenciamento de mudança, monitoramento, planejamento de capacidade e resposta a incidentes.
+
+> **Citações**:
+
+* *"Software engineering has this in common with having children: the labor before the birth is painful and difficult, but the labor after the birth is where you actually spend most of your effort."*
+
+* *"SRE is what happens when you ask a software engineer to design an operations team."*
+
+* *"One could equivalently view SRE as a specific implementation of DevOps with some idiosyncratic extensions."*
+
+* *"The most relevant metric in evaluating the effectiveness of emergency response is how quickly the response team can bring the system back to health — that is, the MTTR."* 
+
+> **Notas**:
+
+- Disponível gratuitamente [online](https://landing.google.com/sre/book/index.html)
+
+- [Review completo por Fernando Ike](https://medium.com/@fernandoike/site-reliability-engineer-sre-b9440f02ca26)
+
+
 ## Q&A
 
 ## Bookmarks
