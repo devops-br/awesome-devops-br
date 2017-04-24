@@ -105,8 +105,12 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 
 ## Bookmarks
 
+- [continuous-integration](http://www.martinfowler.com/articles/continuousIntegration.html) - Artigo Martin Fowler integração contínua
+- [continuous-delivery](http://martinfowler.com/bliki/ContinuousDelivery.html) - Artigo Martin Fowler "continuous delivery"
+- [deployment-pipeline](http://martinfowler.com/bliki/DeploymentPipeline.html) - Artigo Martin Fowler sobre deployment pipeline
 - [git-branching](http://pcottle.github.io/learnGitBranching/) - A interactive Git visualization tool to educate and challenge!
 - [git-branching-successful](http://nvie.com/posts/a-successful-git-branching-model/) - Como trabalhar com branches
+- [git-branching-merging](https://www.simple-talk.com/opinion/opinion-pieces/branching-and-merging-ten-pretty-good-practices/) - Branching and Merging: Ten Pretty-Good Practices
 - [git-guide](http://rogerdudler.github.io/git-guide/) - Simple Git guide
 - [serverless](http://zanon-io.github.io/serverless-presentation/slides/index.html#1) - Serverless presentation
 - [puppet x ansible](http://gutocarvalho.net/blog/2016/06/02/puppet-vs-ansible/) - Comparativo Puppet x Ansible
