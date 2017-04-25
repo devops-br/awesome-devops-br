@@ -133,6 +133,10 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [terraform x cloudformation](https://www.terraform.io/intro/vs/cloudformation.html) - Comparação do Terraform com Cloudformation e outras ferramentas de nuvem
 - [8practices-containers-apps](https://opensource.com/life/16/9/8-best-practices-building-containerized-applications) - Melhores práticas para construção de aplicações baseadas em containeres
 - [learncodethehardway](https://learncodethehardway.org/) - Site para aprender a programar
+- [12-licoes-performance-tests](http://www.bugbang.com.br/12-licoes-aprendidas-em-testes-de-performance-server-side/) - Lições aprendidas em testes de performance
+- [destilando-jmeter](http://www.bugbang.com.br/destilando-jmeter-i-introducao-e-conceitos/) - Destilando Jmeter (ferramenta de teste de performance)
+- [why-google-uses-single-repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) - Why Google Stores Billions of Lines of Code in a Single Repository
+- [evolution-of-container-usage-netflix](http://techblog.netflix.com/2017/04/the-evolution-of-container-usage-at.html) - The Evolution of Container Usage at Netflix
 
 ## Segurança
 
