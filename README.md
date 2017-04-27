@@ -33,6 +33,9 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [hygieia](https://github.com/capitalone/Hygieia) - Hygieia, um dashboard para agregar informações
 - [flywaydb](https://flywaydb.org/) - Ferramenta para migração de bancos
 - [linux-performance-tools](https://www.reddit.com/r/linux/comments/4x4smu/linux_performance_tools_full_version_draft/) - Excelente gráfico de ferramentas para profiling no Linux
+- [fabio](https://github.com/fabiolb/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul
+- [supervidord](http://supervisord.org/) - Supervisor: A Process Control System
+- [traefik](https://docs.traefik.io/) - A modern HTTP reverse proxy and load balancer made to deploy microservices with ease
 
 ## Livros
 
@@ -137,6 +140,8 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [destilando-jmeter](http://www.bugbang.com.br/destilando-jmeter-i-introducao-e-conceitos/) - Destilando Jmeter (ferramenta de teste de performance)
 - [why-google-uses-single-repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) - Why Google Stores Billions of Lines of Code in a Single Repository
 - [evolution-of-container-usage-netflix](http://techblog.netflix.com/2017/04/the-evolution-of-container-usage-at.html) - The Evolution of Container Usage at Netflix
+- [play-with-docker](http://training.play-with-docker.com/) - Excelentes labs para estudar docker
+- [not-run-database-inside-container](http://patrobinson.github.io/2016/11/07/thou-shalt-not-run-a-database-inside-a-container/) - Artigo com considerações sobre porque não rodar databases em containers
 
 ## Segurança
 
