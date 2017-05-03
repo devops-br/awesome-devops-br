@@ -142,6 +142,19 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [evolution-of-container-usage-netflix](http://techblog.netflix.com/2017/04/the-evolution-of-container-usage-at.html) - The Evolution of Container Usage at Netflix
 - [play-with-docker](http://training.play-with-docker.com/) - Excelentes labs para estudar docker
 - [not-run-database-inside-container](http://patrobinson.github.io/2016/11/07/thou-shalt-not-run-a-database-inside-a-container/) - Artigo com considerações sobre porque não rodar databases em containers
+- [3-Git-Commands-i-use-every-day](https://dev.to/gonedark/3-git-commands-i-use-every-day) - Artigo com 3 comandos git que o autor usa todo dia
+- [when-to-make-git-commit](https://jason.pureconcepts.net/2017/01/when-to-make-git-commit/) - Artigo com 2 regras que o autor usa para saber quando fazer um commit
+- [how-to-write-a-git-commit-message](https://chris.beams.io/posts/git-commit/) - Dicas de como fazer uma boa mensagem de commit
+- [the-guilt-of-not-testing-everything](https://dev.to/ozymandias547/the-guilt-of-not-testing-everything) - Artigo sobre a sensação de culpa quando se acredita que o teste criado não cobre todas as possibilidades
+- [productivity-secrets](https://dev.to/codeforcashbook/productivity-secrets-for-success-as-a-freelance-consultant) - Artigo com dicas para aumento de produtividade
+- [performance-testing](https://dzone.com/articles/a-complete-guide-to-performance-testing-types-test) - Guia sobre teste de performance
+- [secret-management](https://medium.com/on-docker/secrets-and-lie-abilities-the-state-of-modern-secret-management-2017-c82ec9136a3d) - Review de sistemas de gerenciamento de secrets
+- [testando-sua-infraestrutura](https://medium.com/desenvolvimento-%C3%A1gil/testando-sua-infraestrutura-de-forma-rapida-e-facil-f11fb2f4be89) - Testando sua infraestrutura de forma rápida e fácil
+- [precisamos-falar-sobre-teste-de-infra](http://techfree.com.br/2017/01/precisamos-falar-sobre-teste-automatizado-de-infraestrutura/) - Precisamos falar sobre teste automatizado de infraestrutura
+- [nova-metodologia](https://medium.com/desenvolvimento-%C3%A1gil/a-nova-metodologia-69b8f8a379c7) - A Nova Metodologia (tradução do texto "[The New Methodology](https://www.martinfowler.com/articles/newMethodology.html)" de Martin Fowler)
+- [padroes-a-evitar](https://medium.com/@thoughtworksbr/5-padroes-para-evitar-em-seu-projeto-de-desenvolvimento-de-software-481b5bcfdf78) - 5 padrões para evitar em seu projeto de Desenvolvimento de Software
+- [maneiras-de-atuar-positivamente](https://medium.com/dos-margaritas/5-maneiras-de-atuar-positivamente-em-projetos-de-desenvolvimento-de-software-e9b2d4103ac5) - 5 maneiras de atuar positivamente em projetos de Desenvolvimento de Software
+
 
 ## Segurança
 
