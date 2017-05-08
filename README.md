@@ -20,6 +20,8 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [jedi](http://www.jedi.be/blog/2010/02/12/what-is-this-devops-thing-anyway/) - What is this devops thing?
 - [newrelic](https://blog.newrelic.com/2014/05/16/devops-name/) - Devops origins
 - [newrelic-devops](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops/) - How New Relic does Devops
+- [what-is-devops](https://medium.com/@cindysridharan/what-is-devops-5b0181fdb953) - What is Devops
+- [devops-topologies](http://web.devopstopologies.com/) - Artigo que apresenta exemplos do que é e do que não é devops
 
 ## Ferramentas
 
@@ -36,6 +38,8 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [fabio](https://github.com/fabiolb/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul
 - [supervidord](http://supervisord.org/) - Supervisor: A Process Control System
 - [traefik](https://docs.traefik.io/) - A modern HTTP reverse proxy and load balancer made to deploy microservices with ease
+- [jenkins](https://jenkins.io/projects/blueocean/) - Jenkins, ferramenta de CI e CD
+- [envoy](https://medium.com/@cindysridharan/envoy-953c340c2dca) - Envoy, a network proxy
 
 ## Livros
 
@@ -154,7 +158,14 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [nova-metodologia](https://medium.com/desenvolvimento-%C3%A1gil/a-nova-metodologia-69b8f8a379c7) - A Nova Metodologia (tradução do texto "[The New Methodology](https://www.martinfowler.com/articles/newMethodology.html)" de Martin Fowler)
 - [padroes-a-evitar](https://medium.com/@thoughtworksbr/5-padroes-para-evitar-em-seu-projeto-de-desenvolvimento-de-software-481b5bcfdf78) - 5 padrões para evitar em seu projeto de Desenvolvimento de Software
 - [maneiras-de-atuar-positivamente](https://medium.com/dos-margaritas/5-maneiras-de-atuar-positivamente-em-projetos-de-desenvolvimento-de-software-e9b2d4103ac5) - 5 maneiras de atuar positivamente em projetos de Desenvolvimento de Software
-
+- [how-i-went-from-zero-to-sanfrancisco-sw-engineer-in-12-months](https://medium.freecodecamp.com/how-i-learned-to-code-and-earned-a-job-in-silicon-valley-changing-my-life-along-the-way-a3af854855fa) - Como se tornar um desenvolvedor no Freecodecamp
+- [linuxkit](https://infoslack.com/devops/linuxkit) - Artigo introdutório sobre o LinuxKit
+- [5-best-practices-for-containers-in-production](https://techbeacon.com/5-best-practices-container-orchestration-it-production) - Five best practices for containers in production
+- [devops-conferences](http://devopsconferences.org/) - Lista de eventos Devops pelo mundo
+- [julia-evans](http://jvns.ca/) - Blog técnico com a sysadmin Julia Evans
+- [charity-majors](http://charity.wtf/) - Blog de uma Production Engineering Manager do Facebook
+- [rachel-by-the-bay](http://rachelbythebay.com/w/) - Software, technology, sysadmin war stories, and more
+- [the-technical-blog-of-james](https://ttboj.wordpress.com/) - Technical articles, writeups and discussion!
 
 ## Segurança
 
