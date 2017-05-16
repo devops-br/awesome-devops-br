@@ -40,6 +40,7 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [traefik](https://docs.traefik.io/) - A modern HTTP reverse proxy and load balancer made to deploy microservices with ease
 - [jenkins](https://jenkins.io/projects/blueocean/) - Jenkins, ferramenta de CI e CD
 - [envoy](https://medium.com/@cindysridharan/envoy-953c340c2dca) - Envoy, a network proxy
+- [cloudcraft-aws-diagrams](https://cloudcraft.co/) - Cloudcraft – Draw AWS diagrams
 
 ## Livros
 
@@ -166,6 +167,20 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [charity-majors](http://charity.wtf/) - Blog de uma Production Engineering Manager do Facebook
 - [rachel-by-the-bay](http://rachelbythebay.com/w/) - Software, technology, sysadmin war stories, and more
 - [the-technical-blog-of-james](https://ttboj.wordpress.com/) - Technical articles, writeups and discussion!
+- [is-serverless-the-new-visual-basic](http://highscalability.com/blog/2017/5/15/is-serverless-the-new-visual-basic.html) - Is Serverless the New Visual Basic?
+- [-o-que-eu-preciso-saber-para-subir-um-cluster-swarm](http://techfree.com.br/2017/05/o-que-eu-preciso-saber-para-subir-um-cluster-docker-swarm/) - O QUE EU PRECISO SABER PARA SUBIR UM CLUSTER DOCKER SWARM
+- [15-things-you-shoud-know-about-ansible](http://codeheaven.io/15-things-you-should-know-about-ansible/) - 15 Things You Should Know About Ansible
+- [devops-conferences](http://devopsconferences.org/) - Devops Conferences
+- [access-and-secret-management-in-cloud-services](https://www.infoq.com/presentations/lyft-security-cloud) - Access and Secret Management in Cloud Services
+- [the-state-of-modern-secret-management](https://medium.com/on-docker/secrets-and-lie-abilities-the-state-of-modern-secret-management-2017-c82ec9136a3d) - Secrets and LIE-abilities: The State of Modern Secret Management (2017)
+- [sw-management-with-powershell-chocolatey](https://www.slideshare.net/ferventcoder/software-management-with-powershell-dsc-and-chocolatey-powershell-summit-2017) - Software Management with PowerShell DSC and Chocolatey
+- [container-performance-analysis](https://www.slideshare.net/brendangregg/container-performance-analysis) - Container Performance Analysis
+- [run-stuff-deploy-stuff](https://www.slideshare.net/KrisBuytaert/run-stuff-deploy-stuff-jax-london-2017-edition) - Run stuff, Deploy Stuff, Jax London 2017 Edition
+- [why-you-shouldnt-use-env-variables-for-secret-data](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/) - Why you shouldn't use ENV variables for secret data
+- [unikernels-docker-e-o-futuro-da-infraestrutura-imutavel](https://infoslack.com/devops/unikernels-docker-e-o-futuro-da-infraestrutura-imutavel) - Unikernels, Docker e o futuro da infraestrutura imutável
+- [ops-and-operability](https://vimeo.com/205526857) - Ops and operability
+- [logs-and-metrics](https://medium.com/@cindysridharan/logs-and-metrics-6d34d3026e38) - Logs and Metrics
+- [working-at-netflix-2017](http://www.brendangregg.com/blog/2017-05-16/working-at-netflix-2017.html) - Working at Netflix 2017
 
 ## Segurança
 
