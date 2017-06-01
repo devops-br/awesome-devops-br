@@ -42,7 +42,8 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [envoy](https://medium.com/@cindysridharan/envoy-953c340c2dca) - Envoy, a network proxy
 - [cloudcraft-aws-diagrams](https://cloudcraft.co/) - Cloudcraft – Draw AWS diagrams
 - [pinpoint-apm](https://github.com/naver/pinpoint) - Pinpoint - APM Opensource
-- [](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
+- [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
+
 ## Livros
 
 **The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win** (*Kevin Behr, George Spafford, Gene Kim*): Uma narrativa sobre a introdução de DevOps em uma empresa fícticia - que em certos momentos farão você cogitar a possibilidade do Gene Kim ser um espião trabalhando ao seu lado devido as grandes semelhanças com _qualquer empresa de TI_. Será impossível não se identificar de forma assustadora com os personagens do livro e dar pequenos sorrisos ao encontrar versões "da vida real" dos mesmos.
