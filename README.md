@@ -41,7 +41,8 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [jenkins](https://jenkins.io/projects/blueocean/) - Jenkins, ferramenta de CI e CD
 - [envoy](https://medium.com/@cindysridharan/envoy-953c340c2dca) - Envoy, a network proxy
 - [cloudcraft-aws-diagrams](https://cloudcraft.co/) - Cloudcraft – Draw AWS diagrams
-
+- [pinpoint-apm](https://github.com/naver/pinpoint) - Pinpoint - APM Opensource
+- [](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
 ## Livros
 
 **The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win** (*Kevin Behr, George Spafford, Gene Kim*): Uma narrativa sobre a introdução de DevOps em uma empresa fícticia - que em certos momentos farão você cogitar a possibilidade do Gene Kim ser um espião trabalhando ao seu lado devido as grandes semelhanças com _qualquer empresa de TI_. Será impossível não se identificar de forma assustadora com os personagens do livro e dar pequenos sorrisos ao encontrar versões "da vida real" dos mesmos.
@@ -181,6 +182,14 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [ops-and-operability](https://vimeo.com/205526857) - Ops and operability
 - [logs-and-metrics](https://medium.com/@cindysridharan/logs-and-metrics-6d34d3026e38) - Logs and Metrics
 - [working-at-netflix-2017](http://www.brendangregg.com/blog/2017-05-16/working-at-netflix-2017.html) - Working at Netflix 2017
+- [s3-vs-glacier-a-simple-backup-strategy-in-the-cloud](http://cloudacademy.com/blog/amazon-s3-vs-amazon-glacier-a-simple-backup-strategy-in-the-cloud/) - Amazon S3 vs Amazon Glacier: a simple backup strategy in the cloud
+- [expondo-a-porta-de-um-servico-no-swarm](http://techfree.com.br/2017/05/expondo-a-porta-de-um-servico-no-swarm/) - Expondo a porta de um serviço no Swarm
+- [kubernetes-vs-mesos-vs-swarm](http://blog.outlyer.com/kubernetes-vs.-mesos-vs.-swarm) - Kubernetes vs. Mesos vs. Swarm — An Opinionated Discussion
+- [persistindo-dados-glusterfs](http://www.mundodocker.com.br/persistindo-dados-glusterfs/) - Persistindo dados - GlusterFS
+- [post-mortems](https://github.com/danluu/post-mortems) - Lista de post mortems
+- [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources
+- [enough-with-the-microservices](https://aadrake.com/posts/2017-05-20-enough-with-the-microservices.html) - Enough with the microservices
+- [threads-em-python-e-claro](http://www.diego-garcia.info/2016/02/18/threads-em-python-e-claro) - Artigo sobre a utilização de threads em Python
 
 ## Segurança
 
