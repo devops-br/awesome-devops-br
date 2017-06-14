@@ -43,6 +43,12 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [cloudcraft-aws-diagrams](https://cloudcraft.co/) - Cloudcraft – Draw AWS diagrams
 - [pinpoint-apm](https://github.com/naver/pinpoint) - Pinpoint - APM Opensource
 - [chaosmonkey](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
+- [namecom](https://www.name.com/) - Registro de nomes
+- [dnssimple](https://dnsimple.com/) - Registro de nomes DNS
+- [dynatrace](https://www.dynatrace.com/) - Dynatrace - APM
+- [rollbar](https://rollbar.com/) - Rollbar - Monitoramento de erros
+- [smartbear](https://smartbear.com/) - SmartBear - Ferramenta de testes, monitoramento e APM
+- [databaselabs](https://www.databaselabs.io/) - Postgres Database as a Service
 
 ## Livros
 
@@ -191,6 +197,16 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources
 - [enough-with-the-microservices](https://aadrake.com/posts/2017-05-20-enough-with-the-microservices.html) - Enough with the microservices
 - [threads-em-python-e-claro](http://www.diego-garcia.info/2016/02/18/threads-em-python-e-claro) - Artigo sobre a utilização de threads em Python
+- [do080-deploying-containerized-applications](https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview) - Deploying Containerized Applications Tech Overview (DO080)
+- [do007-ansible-essentials](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview) - Ansible Essentials Technical Overview video series course
+- [you-are-not-google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb) - you are not google
+- [apache-vs-nginx-practical-considerations](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations) - Apache vs Nginx: Practical Considerations
+- [globo-com-delivers-live-video-streaming-to-500000-viewers-with-nginx](https://www.nginx.com/blog/globo-com-delivers-live-video-streaming-to-500000-viewers-with-nginx/) - Globo.com Uses NGINX to Stream Media to 500,000+ Viewers
+- [why-netflix-chose-nginx-as-the-heart-of-its-cdn](https://www.nginx.com/blog/why-netflix-chose-nginx-as-the-heart-of-its-cdn/) - Why Netflix Chose NGINX as the Heart of Its CDN - NGINX
+- [books-for-sre](https://gist.github.com/infoslack/0a87dac10636553ae4f3d22e7a8ebfa7) - Books for SRE/System Engineer
+- [firing-people](https://zachholman.com/talk/firing-people) - Firing People
+- [introducing-aardvark-and-repokid](https://medium.com/netflix-techblog/introducing-aardvark-and-repokid-53b081bf3a7e) - Introducing Aardvark and Repokid
+- [command-line-tools-can-be-235x-faster-than-your-hadoop-cluster](https://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html) - Command-line Tools can be 235x Faster than your Hadoop Cluster
 
 ## Segurança
 
