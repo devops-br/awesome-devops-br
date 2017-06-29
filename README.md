@@ -207,6 +207,13 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 - [firing-people](https://zachholman.com/talk/firing-people) - Firing People
 - [introducing-aardvark-and-repokid](https://medium.com/netflix-techblog/introducing-aardvark-and-repokid-53b081bf3a7e) - Introducing Aardvark and Repokid
 - [command-line-tools-can-be-235x-faster-than-your-hadoop-cluster](https://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html) - Command-line Tools can be 235x Faster than your Hadoop Cluster
+- [qual-futuro-dos-sysadmins](http://techfree.com.br/2017/06/qual-futuro-dos-sysadmins/) - Qual o futuro dos Sysadmins (Gomex)
+- [microservices-prerequisites](http://philcalcado.com/2017/06/11/calcados_microservices_prerequisites.html) - Microservices Prerequisites
+- [devops-bootcamp](http://devopsbootcamp.osuosl.org/index.html) - Devops Bootcamp
+- [infraestrutura-agil-tem-que-morrer](https://www.fernandoike.com/2017/06/17/infraestrutura-%C3%A1gil-tem-que-morrer) - Infraestrutura ágil tem que morrer
+- [devops-or-goodops](https://product.voxmedia.com/2012/5/4/5426766/devops-or-goodops) - Devops or Goodops?
+- [for-inclusive-culture-maybe-less-is-more](https://hackernoon.com/for-inclusive-culture-maybe-less-is-more-87b663662cea) - For an Inclusive Culture, Try Working Less
+- [whats-a-service-mesh-and-why-do-i-need-one](https://blog.buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/) - What's a service mesh? And why do I need one?
 
 ## Segurança
 
